@@ -105,6 +105,7 @@ a.scroll-down:hover {
     position: relative;
     height: 180px;
     width: 900px;
+    z-index: 1;
 }
 
 .repo-card.active p {
